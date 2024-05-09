@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ExperssionTreeInRunTimeDemo.Controllers.DepartmentController",
+    "Method": "search",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "column",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExperssionTreeInRunTimeDemo.Controllers.EmpolyeeController",
+    "Method": "search",
+    "RelativePath": "api/Empolyee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "column",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
