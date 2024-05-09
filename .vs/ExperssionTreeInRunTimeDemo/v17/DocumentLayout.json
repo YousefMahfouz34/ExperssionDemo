@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|d:\\projects\\experssiontreeinruntimedemo\\experssiontreeinruntimedemo\\experssiontreeinruntimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\experssiontreeinruntimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|d:\\projects\\experssiontreeinruntimedemo\\experssiontreeinruntimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\services\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|d:\\projects\\experssiontreeinruntimedemo\\experssiontreeinruntimedemo\\services\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\services\\empolyeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\empolyeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\services\\ireposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\ireposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\services\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|d:\\projects\\experssiontreeinruntimedemo\\experssiontreeinruntimedemo\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\experssiontreeinruntimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\experssiontreeinruntimedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|solutionrelative:experssiontreeinruntimedemo\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7992D451-17C8-4018-A26C-E6E6EED4BFEB}|ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj|D:\\Projects\\ExperssionTreeInRunTimeDemo\\experssiontreeinruntimedemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ExperssionTreeInRunTimeDemo",
               "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj",
               "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj",
@@ -78,8 +78,7 @@
               "RelativeToolTip": "ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T14:36:59.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:36:59.671Z"
             },
             {
               "$type": "Document",
@@ -95,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmpolyeeController.cs",
               "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Controllers\\EmpolyeeController.cs",
               "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Controllers\\EmpolyeeController.cs",
@@ -107,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DepartmentServices.cs",
               "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\DepartmentServices.cs",
               "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Services\\DepartmentServices.cs",
@@ -120,19 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EmpolyeeServices.cs",
               "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\EmpolyeeServices.cs",
               "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Services\\EmpolyeeServices.cs",
               "ToolTip": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\EmpolyeeServices.cs",
               "RelativeToolTip": "ExperssionTreeInRunTimeDemo\\Services\\EmpolyeeServices.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:18:50.905Z"
+              "WhenOpened": "2024-05-09T12:18:50.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IDepartmentServices.cs",
               "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\IDepartmentServices.cs",
               "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Services\\IDepartmentServices.cs",
@@ -140,7 +140,8 @@
               "RelativeToolTip": "ExperssionTreeInRunTimeDemo\\Services\\IDepartmentServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:07:53.921Z"
+              "WhenOpened": "2024-05-09T12:07:53.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,19 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IReposatory.cs",
-              "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\IReposatory.cs",
-              "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Services\\IReposatory.cs",
-              "ToolTip": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\IReposatory.cs",
-              "RelativeToolTip": "ExperssionTreeInRunTimeDemo\\Services\\IReposatory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAIAAAA",
+              "DocumentIndex": 0,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\Filter.cs",
+              "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Services\\Filter.cs",
+              "ToolTip": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Services\\Filter.cs",
+              "RelativeToolTip": "ExperssionTreeInRunTimeDemo\\Services\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:21:22.277Z"
+              "WhenOpened": "2024-05-09T11:21:22.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\ExperssionTreeInRunTimeDemo\\ExperssionTreeInRunTimeDemo\\Program.cs",
               "RelativeDocumentMoniker": "ExperssionTreeInRunTimeDemo\\Program.cs",
@@ -176,8 +178,7 @@
               "RelativeToolTip": "ExperssionTreeInRunTimeDemo\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAIwBYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:11:53.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:11:53.548Z"
             },
             {
               "$type": "Document",

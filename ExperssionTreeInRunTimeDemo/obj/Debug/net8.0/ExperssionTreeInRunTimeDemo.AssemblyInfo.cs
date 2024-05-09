@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExperssionTreeInRunTimeDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+320f4426ddd95e0e912f9f7333bb45ff9c0907ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExperssionTreeInRunTimeDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExperssionTreeInRunTimeDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
